@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="S1_R6__AT1_PPDM.pages.MainPage"
+             Title=""
+             NavigationPage.HasNavigationBar="False">
+
+    <VerticalStackLayout Margin="30" Spacing="30">
+        <VerticalStackLayout Spacing="10">
+
+            <Label Text="Buscar endereço por latitude e longitude"
+                   FontSize="Medium"/>
+
+            <Label Text="Latitude"/>
+            <Entry x:Name="TxtLatitude"/>
+
+            <Label Text="Longitude"/>
+            <Entry x:Name="TxtLongitude"/>
+
+            <Button Text="Procurar"
+                x:Name="ButProcurar"
+                Clicked="ButProcurar_Clicked"/>
+        </VerticalStackLayout>
+
+        <!--<VerticalStackLayout Spacing="10">
+
+            <Label Text="Buscar latitude e longitude por endereço"
+                   FontSize="Medium"/>
+            <Label Text="A aplicação não está seguindo as coordenadas que estão sendo fornecidas quando pesquisa no google, por questões de localização do dispositivo emulador"/>
+            <Entry x:Name="TxtCep"
+                   Placeholder="EX: Av. Rebouças, 3965, Sumaré - SP"/>
+
+            <Button Text="Procurar"
+                x:Name="ButProcurarByCep"
+                Clicked="ButProcurarByCep_Clicked"/>
+        </VerticalStackLayout>-->
+
+    </VerticalStackLayout>
+</ContentPage>

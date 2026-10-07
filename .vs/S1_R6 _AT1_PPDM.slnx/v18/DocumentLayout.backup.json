@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Treinos\\Mobile\\S1_R6 _AT1_PPDM\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{01F27FD8-8944-4D3C-8135-5150F2060D7B}|S1_R6 _AT1_PPDM\\S1_R6 _AT1_PPDM.csproj|c:\\treinos\\mobile\\s1_r6 _at1_ppdm\\s1_r6 _at1_ppdm\\pages\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{01F27FD8-8944-4D3C-8135-5150F2060D7B}|S1_R6 _AT1_PPDM\\S1_R6 _AT1_PPDM.csproj|solutionrelative:s1_r6 _at1_ppdm\\pages\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01F27FD8-8944-4D3C-8135-5150F2060D7B}|S1_R6 _AT1_PPDM\\S1_R6 _AT1_PPDM.csproj|c:\\treinos\\mobile\\s1_r6 _at1_ppdm\\s1_r6 _at1_ppdm\\pages\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01F27FD8-8944-4D3C-8135-5150F2060D7B}|S1_R6 _AT1_PPDM\\S1_R6 _AT1_PPDM.csproj|solutionrelative:s1_r6 _at1_ppdm\\pages\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01F27FD8-8944-4D3C-8135-5150F2060D7B}|S1_R6 _AT1_PPDM\\S1_R6 _AT1_PPDM.csproj|c:\\treinos\\mobile\\s1_r6 _at1_ppdm\\s1_r6 _at1_ppdm\\pages\\longlatbycep.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01F27FD8-8944-4D3C-8135-5150F2060D7B}|S1_R6 _AT1_PPDM\\S1_R6 _AT1_PPDM.csproj|solutionrelative:s1_r6 _at1_ppdm\\pages\\longlatbycep.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01F27FD8-8944-4D3C-8135-5150F2060D7B}|S1_R6 _AT1_PPDM\\S1_R6 _AT1_PPDM.csproj|c:\\treinos\\mobile\\s1_r6 _at1_ppdm\\s1_r6 _at1_ppdm\\pages\\longlatbycep.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{01F27FD8-8944-4D3C-8135-5150F2060D7B}|S1_R6 _AT1_PPDM\\S1_R6 _AT1_PPDM.csproj|solutionrelative:s1_r6 _at1_ppdm\\pages\\longlatbycep.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01F27FD8-8944-4D3C-8135-5150F2060D7B}|S1_R6 _AT1_PPDM\\S1_R6 _AT1_PPDM.csproj|c:\\treinos\\mobile\\s1_r6 _at1_ppdm\\s1_r6 _at1_ppdm\\pages\\infopage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{01F27FD8-8944-4D3C-8135-5150F2060D7B}|S1_R6 _AT1_PPDM\\S1_R6 _AT1_PPDM.csproj|solutionrelative:s1_r6 _at1_ppdm\\pages\\infopage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01F27FD8-8944-4D3C-8135-5150F2060D7B}|S1_R6 _AT1_PPDM\\S1_R6 _AT1_PPDM.csproj|c:\\treinos\\mobile\\s1_r6 _at1_ppdm\\s1_r6 _at1_ppdm\\pages\\infopage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01F27FD8-8944-4D3C-8135-5150F2060D7B}|S1_R6 _AT1_PPDM\\S1_R6 _AT1_PPDM.csproj|solutionrelative:s1_r6 _at1_ppdm\\pages\\infopage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01F27FD8-8944-4D3C-8135-5150F2060D7B}|S1_R6 _AT1_PPDM\\S1_R6 _AT1_PPDM.csproj|c:\\treinos\\mobile\\s1_r6 _at1_ppdm\\s1_r6 _at1_ppdm\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01F27FD8-8944-4D3C-8135-5150F2060D7B}|S1_R6 _AT1_PPDM\\S1_R6 _AT1_PPDM.csproj|solutionrelative:s1_r6 _at1_ppdm\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 275,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LongLatByCep.xaml.cs",
+              "DocumentMoniker": "C:\\Treinos\\Mobile\\S1_R6 _AT1_PPDM\\S1_R6 _AT1_PPDM\\pages\\LongLatByCep.xaml.cs",
+              "RelativeDocumentMoniker": "S1_R6 _AT1_PPDM\\pages\\LongLatByCep.xaml.cs",
+              "ToolTip": "C:\\Treinos\\Mobile\\S1_R6 _AT1_PPDM\\S1_R6 _AT1_PPDM\\pages\\LongLatByCep.xaml.cs",
+              "RelativeToolTip": "S1_R6 _AT1_PPDM\\pages\\LongLatByCep.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-07T20:32:32.808Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LongLatByCep.xaml",
+              "DocumentMoniker": "C:\\Treinos\\Mobile\\S1_R6 _AT1_PPDM\\S1_R6 _AT1_PPDM\\pages\\LongLatByCep.xaml",
+              "RelativeDocumentMoniker": "S1_R6 _AT1_PPDM\\pages\\LongLatByCep.xaml",
+              "ToolTip": "C:\\Treinos\\Mobile\\S1_R6 _AT1_PPDM\\S1_R6 _AT1_PPDM\\pages\\LongLatByCep.xaml",
+              "RelativeToolTip": "S1_R6 _AT1_PPDM\\pages\\LongLatByCep.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-10-07T20:29:40.002Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "InfoPage.xaml.cs",
+              "DocumentMoniker": "C:\\Treinos\\Mobile\\S1_R6 _AT1_PPDM\\S1_R6 _AT1_PPDM\\pages\\InfoPage.xaml.cs",
+              "RelativeDocumentMoniker": "S1_R6 _AT1_PPDM\\pages\\InfoPage.xaml.cs",
+              "ToolTip": "C:\\Treinos\\Mobile\\S1_R6 _AT1_PPDM\\S1_R6 _AT1_PPDM\\pages\\InfoPage.xaml.cs",
+              "RelativeToolTip": "S1_R6 _AT1_PPDM\\pages\\InfoPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-07T19:31:49.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Treinos\\Mobile\\S1_R6 _AT1_PPDM\\S1_R6 _AT1_PPDM\\pages\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "S1_R6 _AT1_PPDM\\pages\\MainPage.xaml.cs",
+              "ToolTip": "C:\\Treinos\\Mobile\\S1_R6 _AT1_PPDM\\S1_R6 _AT1_PPDM\\pages\\MainPage.xaml.cs",
+              "RelativeToolTip": "S1_R6 _AT1_PPDM\\pages\\MainPage.xaml.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAAACUAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-07T19:28:29.832Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "InfoPage.xaml",
+              "DocumentMoniker": "C:\\Treinos\\Mobile\\S1_R6 _AT1_PPDM\\S1_R6 _AT1_PPDM\\pages\\InfoPage.xaml",
+              "RelativeDocumentMoniker": "S1_R6 _AT1_PPDM\\pages\\InfoPage.xaml",
+              "ToolTip": "C:\\Treinos\\Mobile\\S1_R6 _AT1_PPDM\\S1_R6 _AT1_PPDM\\pages\\InfoPage.xaml",
+              "RelativeToolTip": "S1_R6 _AT1_PPDM\\pages\\InfoPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-10-07T19:27:00.401Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Treinos\\Mobile\\S1_R6 _AT1_PPDM\\S1_R6 _AT1_PPDM\\App.xaml.cs",
+              "RelativeDocumentMoniker": "S1_R6 _AT1_PPDM\\App.xaml.cs",
+              "ToolTip": "C:\\Treinos\\Mobile\\S1_R6 _AT1_PPDM\\S1_R6 _AT1_PPDM\\App.xaml.cs",
+              "RelativeToolTip": "S1_R6 _AT1_PPDM\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-07T19:25:02.496Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Treinos\\Mobile\\S1_R6 _AT1_PPDM\\S1_R6 _AT1_PPDM\\pages\\MainPage.xaml",
+              "RelativeDocumentMoniker": "S1_R6 _AT1_PPDM\\pages\\MainPage.xaml",
+              "ToolTip": "C:\\Treinos\\Mobile\\S1_R6 _AT1_PPDM\\S1_R6 _AT1_PPDM\\pages\\MainPage.xaml",
+              "RelativeToolTip": "S1_R6 _AT1_PPDM\\pages\\MainPage.xaml",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAABwAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-10-07T19:24:49.02Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="S1_R6__AT1_PPDM.pages.InfoPage"
+             Title="">
+    <VerticalStackLayout Margin="30"
+                         Spacing="10">
+
+        <Label x:Name="Rua"
+               FontSize="Large"/>
+        <Label x:Name="Numero"
+               FontSize="Large"/>
+        <Label x:Name="Bairro"
+               FontSize="Large"/>
+        <Label x:Name="Cep"
+               FontSize="Large"/>
+        <Label x:Name="Cidade"
+               FontSize="Large"/>
+        <Label x:Name="Estado"
+               FontSize="Large"/>
+    </VerticalStackLayout>
+</ContentPage>
